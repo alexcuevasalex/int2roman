@@ -20,6 +20,11 @@ Para ejecutarlo basta con dar doble clic en el archivo roman.bat. El cuál permi
 
 Dentro de la carpeta evidencias se encuentran una imagen para comprender más fácilmente la explicación de su uso. Es muy sencillo, ya que la interfaz fue diseñada pensando en la comodidad del usuario. 
 
+![De entero a Romano](/evidencias/CapturaInt2roman.JPG)
+
+
+##Expliación 
+
 En la parte de arriba tenemos un campo de texto para especificar el número entero a convertir. La interfaz cuenta con un botón intuitivo, el cual se encuentra en el centro de la pantalla, que toma el número especificado y lo convierte a número romano; mismo que coloca en un segundo campo de texto que se encuentra en la parte inferior de la pantalla.
 
 La interfaz es muy intuitiva por lo que permite al usuario utilizarla y comprenderla de manera instantánea.
